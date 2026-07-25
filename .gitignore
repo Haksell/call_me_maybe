@@ -8,5 +8,6 @@ wheels/
 .venv
 
 # additional
-data/
 *.zip
+data/
+llm_sdk/
